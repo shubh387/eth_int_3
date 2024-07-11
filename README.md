@@ -105,7 +105,6 @@ This function allows token holders to transfer their tokens to another address. 
 ## Authors
 
 Shubham Kumar
-[21CBT1050@cuchd.in]
 
 ## License
 
